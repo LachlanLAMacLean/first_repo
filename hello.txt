@@ -1,4 +1,7 @@
 Hello World!
 
 
-My nam is Lachlan
+My name is Lachlan
+
+
+commit changes for online repo
